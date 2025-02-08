@@ -1,5 +1,3 @@
-## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="waving hand gif" width="35" style="max-width: 100%;"></a>
-
 <!--
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="waving hand gif" width="35" style="max-width: 100%;"></a> Hi I'm Kusay Ahmad
@@ -16,10 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br> <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KusayAhmad&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=fb4362&icon_color=fb4362&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KusayAhmad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)
+## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="waving hand gif" width="35" style="max-width: 100%;"></a>
+
+<br> <br>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=KusayAhmad&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=fb4362&icon_color=fb4362&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=KusayAhmad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)
+
+
+
 
 <h3>When I code, I rely on</h3>
 <p>
