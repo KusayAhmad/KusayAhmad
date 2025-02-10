@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="waving hand gif" width="35" style="max-width: 100%;"></a> Hi I'm Kusay Ahmad
 
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,8 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="waving hand gif" width="35" style="max-width: 100%;"></a>
+
+ <img src="https://github.com/user-attachments/assets/0c905e77-4115-4de0-a663-acf1b255d17e" alt="profile under construction PNG" width="1112" style="max-width: 100%;"></a>
+
 
 <br> <br>
 ![GitHub Streak](https://github-readme-stats.vercel.app/api/?username=kusayAhmad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fb4362&icon_color=fb4362&text_color=A1A1A1&bg_color=0,000000,130F40)
@@ -43,3 +46,5 @@ Here are some ideas to get you started:
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=KusayAhmad)
