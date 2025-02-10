@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## HI THERE <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="waving hand gif" width="35" style="max-width: 100%;"></a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=259CFF&width=435&lines=Profile+under+construction+!!)
 
 ![profile under construction ](https://github.com/user-attachments/assets/63a62567-6004-4954-b5c2-c4d2ab53a0bf)
 
